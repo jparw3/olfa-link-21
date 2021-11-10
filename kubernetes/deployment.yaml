@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: eddiehub-Olfa-deployment
+  labels:
+    app: eddiehub-Olfa
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: eddiehub-Olfa
+  template:
+    metadata:
+      labels:
+        app: eddiehub-Olfa
+    spec:
+      containers:
+        - name: api
+          image: ghcr.io/eddiehubcommunity/Olfa:latest
+          ports:
+            - containerPort: 5000
