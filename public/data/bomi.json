@@ -1,0 +1,22 @@
+{
+    "name": "Jeong Bo-mi",
+    "bio": "Bomi (보미) is a South Korean singer under DAM Entertainment. She is a member of the girl group GIRL CRUSH.",
+    "avatar": "https://pbs.twimg.com/profile_images/1222282884310016001/tvMMs-T4_400x400.jpg",
+    "links": [
+      {
+        "name": "Send me money on paypal",
+        "url": "https://paypal.com",
+        "icon": "paypal "
+      },
+      {
+          "name": "YouTube Channel",
+          "url": "https://www.youtube.com/channel/UCsrXUkIqkTT2qCt0emEe1Lw",
+          "icon": "youtube"
+        },
+        {
+          "name": "Message me",
+          "url": "https://paypal.com",
+          "icon": "send"
+        }
+    ]
+  }
