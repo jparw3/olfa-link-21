@@ -67,7 +67,7 @@ Optional fields: `links` and `milestones`
   }
 ```
 
-Your URL will be `https://olfa21.herokuapp.com/<yourusername>`. For example: <https://olfa21.herokuapp.com/jparww>\
+Your URL will be `https://olfa21.herokuapp.com/<yourusername>`. For example: <https://olfa21.herokuapp.com/jparw>\
 Your `avatar` URL should take the format of `https://github.com/<yourusername>.png`.
 
 ### Available Icons:
