@@ -19,11 +19,6 @@
         "icon": "envelope"
       },
       {
-        "name": "Linkedin",
-        "url": "#",
-        "icon": "linkedin"
-      },
-      {
         "name": "Discord Server",
         "url": "https://www.discord.com/",
         "icon": "discord"
@@ -31,7 +26,7 @@
       {
         "name": "Personal Site",
         "url": "https://www.jparw.com/",
-        "icon": "web"
+        "icon": "globe"
       }
       
     ]
