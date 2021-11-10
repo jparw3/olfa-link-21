@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Demo
 
-Check out the website: [Olfa](link will go here)
+Check out the website: [Olfa](https://olfa21.herokuapp.com/)
 
 ## 👇 Prerequisites
 
@@ -17,7 +17,7 @@ Before installation, please make sure you have already installed following tools
 
 1. Fork the project
 2. Clone the project
-3. Navigate to the project directory `cd open-source-olfa`
+3. Navigate to the project directory `cd olfa-link-21`
 4. Install dependencies with `npm install`
 5. Run `npm start`
 6. Optional : Run the tests with `npm run cypress:run`
@@ -67,7 +67,7 @@ Optional fields: `links` and `milestones`
   }
 ```
 
-Your URL will be `http://link/<yourusername>`. For example: <http://link.com/jparw>\
+Your URL will be `https://olfa21.herokuapp.com/<yourusername>`. For example: <https://olfa21.herokuapp.com/jparww>\
 Your `avatar` URL should take the format of `https://github.com/<yourusername>.png`.
 
 ### Available Icons:
