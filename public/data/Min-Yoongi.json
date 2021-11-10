@@ -4,14 +4,14 @@
     "avatar": "https://i.ibb.co/mDyrnY8/main-qimg-605f874b5899326d70d1832073c72a6e.jpg",
     "links": [
       {
+        "name": "Twitter",
+        "url": "https://www.twitter.com/",
+        "icon": "twitter"
+      },
+        {
         "name": "Spotify",
         "url": "https://www.spotify.com/",
         "icon": "volume-up"
       },
-      {
-        "name": "Twitter",
-        "url": "https://www.twitter.com/",
-        "icon": "twitter"
-      }
     ]
   }
