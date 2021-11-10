@@ -6,12 +6,12 @@
       {
         "name": "Spotify",
         "url": "https://www.spotify.com/",
-        "icon": "volume-up"
+        "icon": "link"
       },
       {
         "name": "Instagram",
         "url": "https://www.instagram.com/",
-        "icon": "camera"
+        "icon": "link"
       }
     ]
   }
