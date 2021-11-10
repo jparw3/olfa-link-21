@@ -1,33 +1,38 @@
 {
-  "name": "Jack Willars",
-  "bio": "Co-Founder of Olfa.",
-  "avatar": "https://github.com/jparw.png",
-  "links": [
-    {
-      "name": "Follow me on GitHub",
-      "url": "https://github.com/jparw",
-      "icon": "github"
-    },
-    {
-      "name": "Follow me on Twitter",
-      "url": "https://twitter.com/jparw3",
-      "icon": "twitter"
-    }
-  ],
-  "milestones": [
-    {
-      "title": "Started College",
-      "date": "September 2020",
-      "icon": "book",
-      "color": "grey",
-      "description": "Started the IT course at Peterborough College",
-      "url": "https://peterborough.ac.uk"
-    },
-    {
-      "title": "Developped Olfa",
-      "date": "June 2019",
-      "icon": "book",
-      "color": "blue"
-    }
-  ]
-}
+    "name": "Jack Willars",
+    "bio": "Co-Founder of Olfa.",
+    "avatar": "https://github.com/jparw.png",
+    "links": [
+      {
+        "name": "Follow me on GitHub",
+        "url": "https://github.com/jparw",
+        "icon": "github"
+      },
+      {
+        "name": "Follow me on Twitter",
+        "url": "https://twitter.com/jparw3",
+        "icon": "twitter"
+      },
+      {
+        "name": "Email",
+        "url": "mailto:jparw3@gmail.com",
+        "icon": "envelope"
+      },
+      {
+        "name": "Linkedin",
+        "url": "#",
+        "icon": "linkedin"
+      },
+      {
+        "name": "Discord Server",
+        "url": "https://www.discord.com/",
+        "icon": "discord"
+      },
+      {
+        "name": "Personal Site",
+        "url": "https://www.jparw.com/",
+        "icon": "web"
+      }
+      
+    ]
+  }
