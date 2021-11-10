@@ -8,7 +8,7 @@ import { Menubar } from 'primereact/menubar'
 function Navbar({ items, start, end }) {
   if (!end) {
     end = (
-      <a href="https://github.com/EddieHubCommunity/Olfa">
+      <a href="https://github.com/jparw/olfa-link-21">
         <i className="pi pi-github" style={{ fontSize: '2em' }}></i>
       </a>
     )

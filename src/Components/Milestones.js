@@ -31,7 +31,7 @@ function Milestones({ milestones }) {
         <img
           src={milestone.image}
           onError={(e) =>
-            (e.target.src = 'https://github.com/EddieHubCommunity.png')
+            (e.target.src = 'https://github.com/jparw.png')
           }
           alt={milestone.title}
           width={100}

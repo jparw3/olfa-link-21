@@ -18,7 +18,7 @@ function Footer() {
       <p>
         <span className="p-mr-2">Contribute on</span>
         <Link
-          to={{ pathname: 'https://github.com/EddieHubCommunity/Olfa' }}
+          to={{ pathname: 'https://github.com/jparw/olfa-link-21' }}
           target="_blank"
           className="p-mr-2"
           aria-label="Olfa repository on GitHub"
