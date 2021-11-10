@@ -72,6 +72,29 @@ Your `avatar` URL should take the format of `https://github.com/<yourusername>.p
 
 ### Available Icons:
 
+    Link
+    android 
+    apple 
+    discord 
+    facebook 
+    github 
+    microsoft
+    paypal 
+    slack
+    twitter
+    vimeo 
+    youtube
+    envelope
+    sned 
+    instagram
+    linkedin
+    codewars
+    twitch
+    hashcode
+    dev.to
+    web
+
+
 ## 🛡️ License
 
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
