@@ -1,8 +1,8 @@
 import React from 'react'
 
 import { Skeleton } from 'primereact/skeleton'
-
-function Placeholder() {
+e
+function Placholder() {
   return (
     <section>
       <div className="p-d-flex p-jc-center p-ai-center">

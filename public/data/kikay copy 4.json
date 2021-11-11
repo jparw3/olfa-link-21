@@ -1,0 +1,17 @@
+{
+  "name": "Khaye Rieta",
+  "bio": "Secret North Korean Spy.",
+  "avatar": "https://i.ibb.co/mcXKYsB/image.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://Twitter.com/",
+      "icon": "twitter"
+    },
+    {
+      "name": "Follow me on Youtube",
+      "url": "https://youtube.com/",
+      "icon": "youtube"
+    }
+  ]
+}
