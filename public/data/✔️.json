@@ -1,0 +1,33 @@
+{
+    "name": "✔️",
+    "bio": "Co-Founder and developer of 𝗼𝗹𝗳𝗮.",
+    "avatar": "https://github.com/jparw.png",
+    "links": [
+      {
+        "name": "Follow me on GitHub",
+        "url": "https://github.com/jparw",
+        "icon": "github"
+      },
+      {
+        "name": "Follow me on Twitter",
+        "url": "https://twitter.com/jparw3",
+        "icon": "twitter"
+      },
+      {
+        "name": "Email",
+        "url": "mailto:jparw3@gmail.com",
+        "icon": "envelope"
+      },
+      {
+        "name": "Discord Server",
+        "url": "https://www.discord.com/",
+        "icon": "discord"
+      },
+      {
+        "name": "Personal Site",
+        "url": "https://www.jparw.com/",
+        "icon": "globe"
+      }
+      
+    ]
+  }
