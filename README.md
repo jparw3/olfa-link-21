@@ -33,7 +33,7 @@ Optional fields: `links` and `milestones`
 ```json
 {
     "name": "Jack Willars",
-    "bio": "Founder of Olfa.",
+    "bio": "Co-Founder of 𝗼𝗹𝗳𝗮.",
     "avatar": "https://github.com/jparw.png",
     "links": [
       {
@@ -45,24 +45,23 @@ Optional fields: `links` and `milestones`
         "name": "Follow me on Twitter",
         "url": "https://twitter.com/jparw3",
         "icon": "twitter"
-      }
-    ],
-    "milestones": [
-      {
-        "title": "Started College",
-        "date": "September 2020",
-        "icon": "book",
-        "color": "grey",
-        "description": "I began studying information technology at Peterborough college & currently working towards a level 3 diploma."
-
       },
       {
-        "title": "Started 'Olfa'",
-        "date": "October 2021",
-        "icon": "link",
-        "color": "red",
-        "description": "Founded olfa as part of a college project."
+        "name": "Email",
+        "url": "mailto:jparw3@gmail.com",
+        "icon": "envelope"
+      },
+      {
+        "name": "Discord Server",
+        "url": "https://www.discord.com/",
+        "icon": "discord"
+      },
+      {
+        "name": "Personal Site",
+        "url": "https://www.jparw.com/",
+        "icon": "globe"
       }
+      
     ]
   }
 ```
