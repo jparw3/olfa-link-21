@@ -85,7 +85,7 @@ Your `avatar` URL should take the format of `https://github.com/<yourusername>.p
     vimeo 
     youtube
     envelope
-    sned 
+    send
     instagram
     linkedin
     codewars
