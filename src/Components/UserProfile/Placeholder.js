@@ -1,7 +1,7 @@
 import React from 'react'
 
 import { Skeleton } from 'primereact/skeleton'
-e
+
 function Placholder() {
   return (
     <section>
