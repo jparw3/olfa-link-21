@@ -1,0 +1,17 @@
+{
+    "name": "Elon Musk 🚀",
+    "bio": "Real life iron man",
+    "avatar": "https://static01.nyt.com/images/2021/01/30/business/29musk-print/29musk-1-mediumSquareAt3X.jpg",
+    "links": [
+      {
+        "name": "Paypal",
+        "url": "https://paypal.com",
+        "icon": "paypal"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com",
+        "icon": "link"
+      }
+    ]
+  }

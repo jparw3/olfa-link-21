@@ -1,0 +1,17 @@
+{
+    "name": "Anthony Padilla",
+    "bio": "real human",
+    "avatar": "https://static.wikia.nocookie.net/smosh/images/1/1d/Anthony_Padilla_2019.png/revision/latest?cb=20200102010620",
+    "links": [
+      {
+        "name": "YouTube",
+        "url": "https://youtube.com/",
+        "icon": "youtube"
+      },
+      {
+        "name": "Discord Server",
+        "url": "https://www.discord.com/",
+        "icon": "discord"
+      }
+    ]
+  }

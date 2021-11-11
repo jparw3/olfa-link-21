@@ -1,0 +1,17 @@
+{
+    "name": "Dave Burd",
+    "bio": "David Andrew Burd, better known by his stage name Lil Dicky, is an American rapper, comedian and actor. He came to prominence with the release of the music video of his song 'Ex-Boyfriend' in 2013, which became popular with more than one million views on YouTube in 24 hours.",
+    "avatar": "https://static01.nyt.com/images/2020/03/04/arts/03dave2/03dave2-mobileMasterAt3x.jpg",
+    "links": [
+    {
+        "name": "Twitter",
+        "url": "https://www.twitter.com/",
+        "icon": "twitter"
+    },
+        {
+        "name": "Spotify",
+        "url": "https://www.spotify.com/",
+        "icon": "volume-up"
+    }
+    ]
+}
