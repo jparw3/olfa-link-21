@@ -24,10 +24,15 @@
         "icon": "discord"
       },
       {
-        "name": "Personal Site",
-        "url": "https://www.jparw.com/",
-        "icon": "globe"
-      }
+          "name": "Dev.to",
+          "url": "https://www.dev.to/jparw",
+          "icon": "dev.to"
+        },
+        {
+          "name": "Personal Site",
+          "url": "https://www.jparw.com/",
+          "icon": "globe"
+        }
       
     ]
   }
